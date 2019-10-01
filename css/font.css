@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'Saira Stencil One';
+  src: url(font/SairaStencilOne-Regular.ttf);
+  font-display: swap;
+}
+@font-face {
+	font-family: 'M PLUS 1p';
+  src: url(font/MPLUS1p-Medium.ttf);
+  font-display: swap;
+}
+@font-face {
+	font-family: 'Kosugi Maru';
+  src: url(font/KosugiMaru-Regular.ttf);
+  font-display: swap;
+}
+@font-face {
+	font-family: 'M PLUS Rounded 1c';
+  src: url(font/MPLUSRounded1c-Medium.ttf);
+  font-display: swap;
+}
+@font-face {
+  font-family: 'FontAwesome';
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.10.0/webfonts/fa-solid-900.woff2") format("woff2");
+  font-display: auto;
+}
+.run {
+  font-family: "FontAwesome";
+  content: "/f70c";
+  font-display: swap;
+}
